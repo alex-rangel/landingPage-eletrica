@@ -4,7 +4,7 @@
  * - ano no rodapé
  */
 
-const WHATSAPP_NUMBER_E164 = "5521964500946";
+const WHATSAPP_NUMBER_E164 = "5521964050946";
 const DEFAULT_MESSAGE = "Olá! Gostaria de solicitar um orçamento.";
 
 /**
