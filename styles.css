@@ -887,9 +887,12 @@ button{font-family:inherit}
   .cta-banner__inner{
     flex-direction:column;
     align-items:stretch;
+    justify-content:flex-start;
+    gap:24px;
   }
   .cta-banner__content{
     max-width:none;
+    flex:0 0 auto;
   }
   .cta-banner__action{
     width:100%;
