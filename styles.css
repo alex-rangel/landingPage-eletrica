@@ -973,5 +973,5 @@ button{font-family:inherit}
   .btn__icon,
   .btn__icon * {
     pointer-events: none;
-}
+  }
 }
