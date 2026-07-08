@@ -966,12 +966,5 @@ button{font-family:inherit}
   .why-item__text{
     max-width:none;
   }
-  .icon_btn,
-  .icon_btn * {
-    pointer-events: none;
-  }
-  .btn__icon,
-  .btn__icon * {
-    pointer-events: none;
-  }
+  
 }
